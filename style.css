@@ -1,6 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
-  background:#87CEFF;
+  background: #87ceff;
   margin: 0;
 }
 
@@ -11,7 +11,7 @@ body {
 
 /*NAVBAR*/
 .navbar {
-  background-color: #87CEFF;
+  background-color: #87ceff;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
@@ -36,7 +36,7 @@ body {
 /*JUMBOTRON*/
 .jumbotron {
   height: 100vh; /*height to 100% of view height*/
-  background: #87CEFF; /*background color to blue*/
+  background: #87ceff; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
   display: flex;
   flex-direction: column;
@@ -54,7 +54,7 @@ body {
   /*YOUR NAME*/
   text-transform: uppercase;
   font-weight: 800;
-  font-size: 3em;
+  font-size: 2em;
   margin-bottom: 0;
 }
 
@@ -235,7 +235,7 @@ h4 {
   margin: 7px;
   padding: 5px 10px;
   color: white;
-  background:#0091ea;
+  background: #0091ea;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
@@ -295,8 +295,8 @@ h4 {
 
 .profile-img {
   margin: auto;
-  width: 450px;
-  height: 450px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   margin-top: 100px;
 }
